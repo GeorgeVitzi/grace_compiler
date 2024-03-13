@@ -1,5 +1,0 @@
-fun hello () : nothing
-{
-	writeString("Hello world! \n");
-}
-
